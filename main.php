@@ -1,4 +1,4 @@
-<?php
+<!-- <?php
 // $empleados = [
 //     ['name' => 'Manuel', 'surname' => 'Fernandes' , 'gender' => 'm'],
 //     ['name' => 'Carlos', 'surname' => 'Hernandes' , 'gender' => 'nb'],
@@ -19,7 +19,6 @@
 // // traccia 2:
 
 // $numeros = ['24', '26', '30', '45','51','632','743', '86', '99', '110', '113', '122', '131', '1478', '155', '146', '178', '1845', '19', '2320'];
- 
 
 
 
