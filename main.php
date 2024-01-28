@@ -1,4 +1,4 @@
-<!-- <?php
+<?php
 // $empleados = [
 //     ['name' => 'Manuel', 'surname' => 'Fernandes' , 'gender' => 'm'],
 //     ['name' => 'Carlos', 'surname' => 'Hernandes' , 'gender' => 'nb'],
